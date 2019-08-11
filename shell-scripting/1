@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "Hello! big data @ bash" 1>&2
+
+dates &> outfiles.txt
+
